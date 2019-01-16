@@ -10,4 +10,4 @@ Simple application for bookmarking webistes.
 Just download and open index.html. It is all client side as it used localstorage for storing bookmarks. 
 
 
-![alt text] (https://github.com/mattbhenley/Bookmarker_application/blob/master/Capture.PNG)
+![alt text](https://github.com/mattbhenley/Bookmarker_application/blob/master/Capture.PNG)
