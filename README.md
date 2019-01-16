@@ -1,2 +1,10 @@
-# Bookmarker_application
-Simple application for bookmarking favorite websites using the local storage for storing the data. 
+# Bookmarker LocalStorage App
+
+Simple application for bookmarking webistes. 
+
+### Version
+1.0.0
+
+### Usage
+
+Just download and open index.html. It is all client side as it used localstorage for storing bookmarks. 
